@@ -1,0 +1,19 @@
+{
+  "name": "Mi Finanzas - Gastos e Ingresos",
+  "short_name": "Mi Finanzas",
+  "description": "Control personal de gastos e ingresos en pesos mexicanos.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#16845f",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
